@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089074921705",
+    "firebase_url": "https://offlinetest-d52c1.firebaseio.com",
+    "project_id": "offlinetest-d52c1",
+    "storage_bucket": "offlinetest-d52c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089074921705:android:9ad9e45c82eb0db5e8f078",
+        "android_client_info": {
+          "package_name": "com.example.firebaseofflineandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089074921705-rt5fnpaq2oin0iovs1bl46ojmmvg6dl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsLYKthyQzccTx0LjsnLKTB9kmizyeKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089074921705-rt5fnpaq2oin0iovs1bl46ojmmvg6dl7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089074921705-v4182gqoko0snoclq1gebg23184jsal1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zensar.portal.FirebaseOffline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
